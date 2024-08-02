@@ -10,3 +10,5 @@ df = pd.DataFrame(data)
 
 
 df = df.replace("Alice", "Alice Smith")
+
+df.head()
